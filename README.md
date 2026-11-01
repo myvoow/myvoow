@@ -1,6 +1,6 @@
 <div align="center">
 
-# Salut, moi c'est Myvo 👋
+# Myvo 
 
 **Dev français · Owner de [ZylAI](https://ai.myvolab.xyz/)**
 
@@ -33,12 +33,3 @@ Je construis des apps Android et macOS : clients de musique, outils système, et
 | [**pournotes**](https://github.com/myvoow/pournotes) | Client PRONOTE pour Android, en Jetpack Compose et Material 3 Expressive |
 | [**MusicRPC**](https://github.com/myvoow/MusicRPC) | Apple Music RPC pour Discord sur macOS 26 |
 | [**nitro-control-anv15-41**](https://github.com/myvoow/nitro-control-anv15-41) | Contrôle ventilos et perf pour Acer Nitro V 15 sous Hackintosh |
-
-## 📊 Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=myvoow&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=myvoow&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-</div>
