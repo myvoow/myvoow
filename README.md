@@ -4,7 +4,7 @@
 
 **Dev français · Owner de [ZylAI](https://ai.myvolab.xyz/)**
 
-Je construis des apps Android et macOS : clients de musique, outils système, et un peu de tout ce qui m'amuse.
+Je construis des apps Android et macOS : clients de musique, des drivers, outils système, et un peu de tout ce qui m'amuse.
 
 [![Site](https://img.shields.io/badge/Site-ai.myvolab.xyz-0A84FF?style=for-the-badge&logo=safari&logoColor=white)](https://ai.myvolab.xyz/)
 
