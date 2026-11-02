@@ -33,3 +33,5 @@ Je construis des apps Android et macOS : clients de musique, des drivers, outils
 | [**pournotes**](https://github.com/myvoow/pournotes) | Client PRONOTE pour Android, en Jetpack Compose et Material 3 Expressive |
 | [**MusicRPC**](https://github.com/myvoow/MusicRPC) | Apple Music RPC pour Discord sur macOS 26 |
 | [**nitro-control-anv15-41**](https://github.com/myvoow/nitro-control-anv15-41) | Contrôle ventilos et perf pour Acer Nitro V 15 sous Hackintosh |
+| [**LiquidMusic**](https://github.com/myvoow/LiquidMusic) | Vrai Liquid Glass pour Apple Music sur Android, en patchs Morphe |
+| [**PrimeBridge**](https://github.com/myvoow/PrimeBridge) | Driver macOS : rendu NVIDIA sur l'écran interne des laptops AMD + NVIDIA sans MUX |
