@@ -21,13 +21,17 @@ Morphe patches for **Block Blast!** (`com.block.juggle`), developed with 11.0.6.
 - **Anti-tamper.** The app is packed with NetEase Yidun (`com.netease.nis.wrapper`, `libnesec.so`), which loads part of the code from `assets/nedata.db`. A re-signed APK can be flagged or refused by its checks. These patches do not touch the packer.
 - Not tested on a device yet. The patches apply cleanly to 11.0.6, and the output was checked by decompiling it.
 
-## Build
+## Install
 
-Needs a GitHub token with `read:packages` (Morphe is published on GitHub Packages):
+On your phone, open <https://morphe.software/add-source?github=myvoow/blockblast-patches>, or paste `https://github.com/myvoow/blockblast-patches` in Morphe Manager when you add a patch source. Then choose Block Blast! and give it the XAPK.
+
+## Build and release
+
+Every push to `main` runs `release.yml`: it builds `patches-<version>.mpp`, creates the GitHub Release and updates `patches-bundle.json`, which Morphe Manager reads. The repository must be public. Use semantic commit messages (`feat:`, `fix:`, `chore:`).
+
+Locally, with a GitHub token that has `read:packages` (Morphe is published on GitHub Packages):
 
 ```sh
 export GITHUB_ACTOR=<user> GITHUB_TOKEN=<token>
 ./gradlew :patches:buildAndroid
 ```
-
-The bundle is written to `patches/build/libs/`. Add it to Morphe Manager, then patch the XAPK of Block Blast.
